@@ -1,0 +1,14 @@
+{
+  "names": {
+    "ghost_mode": "5974020a59972304859f935398679f6485055b854e460492868285521b44917e"
+  },
+  "relays": {
+    "5974020a59972304859f935398679f6485055b854e460492868285521b44917e": [
+      "wss://relay.damus.io",
+      "wss://nos.lol",
+      "wss://relay.primal.net",
+      "wss://relay.snort.social",
+      "wss://purplepag.es"
+    ]
+  }
+}
